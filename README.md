@@ -7,7 +7,7 @@
 ## Accessing the application
 
 The application is deployed on Heroku. 
-https://jpf-workout-tracker.herokuapp.com/
+https://abduls-workout-tracker.herokuapp.com/
 
 ## Business Context
 
